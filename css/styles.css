@@ -1,0 +1,72 @@
+body {
+  font-family: 'Raleway';
+  background-image: url('../img/main_bg1.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+a {
+  color: #2C363f
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #2C363f;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.hero-content {
+  margin-top: 5rem;
+}
+
+.hero-content h1 {
+  font-weight: 900;
+  font-size: 3rem;
+}
+
+.social-icons-hero div{
+  border: 1px solid #2C363f;
+  border-radius: 50%;
+}
+
+/* Interest */
+.section-heading {
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 1.2rem;
+}
+.btn-main {
+  background-color: #2C363f;
+  color: #eeeeee;
+}
+
+.btn-main:hover {
+  color: gold;
+}
+/* Hobbies */
+
+.qoutes {
+  font-size: 1.3rem;
+}
+
+/* family */
+
+.family {
+  border-radius: 5%;
+}
+
+.contact input,
+.contact textarea {
+  padding: 1rem 0.4rem;
+  font-size: 1.2rem ;
+  width: 100%;
+}
